@@ -3,3 +3,7 @@
 Advanced Data Science with IBM
 
 https://www.coursera.org/launch/advanced-applied-data-science-ibm
+
+
+student Nicola Romeo here, 
+thank you for the tutorial
